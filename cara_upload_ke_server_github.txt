@@ -1,0 +1,10 @@
+link : musaddat.github.io/tugas-uts-pbw/
+
+klik kanan -> git bash here
+
+copy & jalankan
+git add .
+
+git commit -m "update"
+
+git push -u origin master
